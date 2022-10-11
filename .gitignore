@@ -29,3 +29,8 @@ mta_archives/
 # IDEs
 .vscode
 .idea
+
+# UI build files
+dist/
+resources/
+app/*/package-lock.json
